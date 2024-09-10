@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features":[
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-116.12,33.26,0],[-116.12,33.14,0],[-115.9,33.14,0],[-115.9,33.26,0],[-116.12,33.26,0]]]},"properties":{"name":"Untitled Polygon","tessellate":true}}
+]}
